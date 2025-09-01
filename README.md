@@ -1,1 +1,1 @@
-![alt text](./imgs/image.png)
+![alt text](./imgs/Ad Serving Pipeline.png)
